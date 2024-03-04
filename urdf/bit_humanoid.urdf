@@ -2,11 +2,19 @@
 <!-- This URDF was automatically created by SolidWorks to URDF Exporter! Originally created by Stephen Brawner (brawner@gmail.com) 
      Commit Version: 1.6.0-4-g7f85cfe  Build Version: 1.6.7995.38578
      For more information, please see http://wiki.ros.org/sw_urdf_exporter -->
-<robot
-  name="PatrolRobot">
+<robot name="bit_humanoid">
   <mujoco>
-    <compiler meshdir="" balanceinertia="true" discardvisual="false"/>
+        <compiler
+        meshdir="../meshes/"
+        balanceinertia="true"
+        discardvisual="true" />
   </mujoco>
+  <link name="base_link"/>
+  <joint name="torso" type="fixed">
+    <parent link="base_link"/>
+    <child link="torso"/>
+    <origin rpy="0 0 0" xyz="0 0 0"/>
+  </joint>
   <link
     name="torso">
     <inertial>

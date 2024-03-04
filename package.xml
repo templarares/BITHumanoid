@@ -1,5 +1,5 @@
 <package format="2">
-  <name>patrolrobot</name>
+  <name>bit_humanoid</name>
   <version>1.0.0</version>
   <description>
     <p>URDF Description package for PatrolRobotDescription</p>
