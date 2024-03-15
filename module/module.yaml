@@ -175,7 +175,12 @@ bodySensors:
     parentBody: torso
     X_b_s:
       rotation: [0, 0, 0]
-      translation: [0, 0.01925, 0.4715]
+      translation: [0, 0, 0]
+  - name: Accelerometer
+    parentBody: torso
+    X_b_s:
+      rotation: [0, 0, 0]
+      translation: [0, 0, 0]
 forceSensors:
   - name: RightFootForceSensor
     parentBody: rankleroll

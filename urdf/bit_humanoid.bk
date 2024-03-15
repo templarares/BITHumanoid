@@ -3,7 +3,7 @@
      Commit Version: 1.6.0-4-g7f85cfe  Build Version: 1.6.7995.38578
      For more information, please see http://wiki.ros.org/sw_urdf_exporter -->
 <robot
-  name="PatrolRobot">
+  name="bit_humanoid">
   <mujoco>
     <compiler meshdir="" balanceinertia="true" discardvisual="false"/>
   </mujoco>
@@ -29,7 +29,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/torso.STL" />
+          filename="package://bit_humanoid/meshes/torso.STL" />
       </geometry>
       <material
         name="">
@@ -43,7 +43,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/torso.STL" />
+          filename="package://bit_humanoid/meshes/torso.STL" />
       </geometry>
     </collision>
   </link>
@@ -69,7 +69,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/rhipyaw.STL" />
+          filename="package://bit_humanoid/meshes/rhipyaw.STL" />
       </geometry>
       <material
         name="">
@@ -83,7 +83,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/rhipyaw.STL" />
+          filename="package://bit_humanoid/meshes/rhipyaw.STL" />
       </geometry>
     </collision>
   </link>
@@ -123,7 +123,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/rhiproll.STL" />
+          filename="package://bit_humanoid/meshes/rhiproll.STL" />
       </geometry>
       <material
         name="">
@@ -137,7 +137,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/rhiproll.STL" />
+          filename="package://bit_humanoid/meshes/rhiproll.STL" />
       </geometry>
     </collision>
   </link>
@@ -177,7 +177,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/rhippitch.STL" />
+          filename="package://bit_humanoid/meshes/rhippitch.STL" />
       </geometry>
       <material
         name="">
@@ -191,7 +191,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/rhippitch.STL" />
+          filename="package://bit_humanoid/meshes/rhippitch.STL" />
       </geometry>
     </collision>
   </link>
@@ -231,7 +231,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/rkneepitch.STL" />
+          filename="package://bit_humanoid/meshes/rkneepitch.STL" />
       </geometry>
       <material
         name="">
@@ -245,7 +245,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/rkneepitch.STL" />
+          filename="package://bit_humanoid/meshes/rkneepitch.STL" />
       </geometry>
     </collision>
   </link>
@@ -285,7 +285,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/ranklepitch.STL" />
+          filename="package://bit_humanoid/meshes/ranklepitch.STL" />
       </geometry>
       <material
         name="">
@@ -299,7 +299,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/ranklepitch.STL" />
+          filename="package://bit_humanoid/meshes/ranklepitch.STL" />
       </geometry>
     </collision>
   </link>
@@ -339,7 +339,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/rankleroll.STL" />
+          filename="package://bit_humanoid/meshes/rankleroll.STL" />
       </geometry>
       <material
         name="">
@@ -353,7 +353,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/rankleroll.STL" />
+          filename="package://bit_humanoid/meshes/rankleroll.STL" />
       </geometry>
     </collision>
   </link>
@@ -393,7 +393,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/lhipyaw.STL" />
+          filename="package://bit_humanoid/meshes/lhipyaw.STL" />
       </geometry>
       <material
         name="">
@@ -407,7 +407,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/lhipyaw.STL" />
+          filename="package://bit_humanoid/meshes/lhipyaw.STL" />
       </geometry>
     </collision>
   </link>
@@ -447,7 +447,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/lhiproll.STL" />
+          filename="package://bit_humanoid/meshes/lhiproll.STL" />
       </geometry>
       <material
         name="">
@@ -461,7 +461,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/lhiproll.STL" />
+          filename="package://bit_humanoid/meshes/lhiproll.STL" />
       </geometry>
     </collision>
   </link>
@@ -501,7 +501,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/lhippitch.STL" />
+          filename="package://bit_humanoid/meshes/lhippitch.STL" />
       </geometry>
       <material
         name="">
@@ -515,7 +515,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/lhippitch.STL" />
+          filename="package://bit_humanoid/meshes/lhippitch.STL" />
       </geometry>
     </collision>
   </link>
@@ -555,7 +555,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/lkneepitch.STL" />
+          filename="package://bit_humanoid/meshes/lkneepitch.STL" />
       </geometry>
       <material
         name="">
@@ -569,7 +569,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/lkneepitch.STL" />
+          filename="package://bit_humanoid/meshes/lkneepitch.STL" />
       </geometry>
     </collision>
   </link>
@@ -609,7 +609,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/lanklepitch.STL" />
+          filename="package://bit_humanoid/meshes/lanklepitch.STL" />
       </geometry>
       <material
         name="">
@@ -623,7 +623,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/lanklepitch.STL" />
+          filename="package://bit_humanoid/meshes/lanklepitch.STL" />
       </geometry>
     </collision>
   </link>
@@ -663,7 +663,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/lankleroll.STL" />
+          filename="package://bit_humanoid/meshes/lankleroll.STL" />
       </geometry>
       <material
         name="">
@@ -677,7 +677,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/lankleroll.STL" />
+          filename="package://bit_humanoid/meshes/lankleroll.STL" />
       </geometry>
     </collision>
   </link>
@@ -717,7 +717,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/rshoulderpitch.STL" />
+          filename="package://bit_humanoid/meshes/rshoulderpitch.STL" />
       </geometry>
       <material
         name="">
@@ -731,7 +731,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/rshoulderpitch.STL" />
+          filename="package://bit_humanoid/meshes/rshoulderpitch.STL" />
       </geometry>
     </collision>
   </link>
@@ -771,7 +771,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/rshoulderroll.STL" />
+          filename="package://bit_humanoid/meshes/rshoulderroll.STL" />
       </geometry>
       <material
         name="">
@@ -785,7 +785,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/rshoulderroll.STL" />
+          filename="package://bit_humanoid/meshes/rshoulderroll.STL" />
       </geometry>
     </collision>
   </link>
@@ -825,7 +825,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/rshoulderyaw.STL" />
+          filename="package://bit_humanoid/meshes/rshoulderyaw.STL" />
       </geometry>
       <material
         name="">
@@ -839,7 +839,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/rshoulderyaw.STL" />
+          filename="package://bit_humanoid/meshes/rshoulderyaw.STL" />
       </geometry>
     </collision>
   </link>
@@ -879,7 +879,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/relbowpitch.STL" />
+          filename="package://bit_humanoid/meshes/relbowpitch.STL" />
       </geometry>
       <material
         name="">
@@ -893,7 +893,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/relbowpitch.STL" />
+          filename="package://bit_humanoid/meshes/relbowpitch.STL" />
       </geometry>
     </collision>
   </link>
@@ -933,7 +933,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/rwristpitch.STL" />
+          filename="package://bit_humanoid/meshes/rwristpitch.STL" />
       </geometry>
       <material
         name="">
@@ -947,7 +947,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/rwristpitch.STL" />
+          filename="package://bit_humanoid/meshes/rwristpitch.STL" />
       </geometry>
     </collision>
   </link>
@@ -987,7 +987,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/rwristroll.STL" />
+          filename="package://bit_humanoid/meshes/rwristroll.STL" />
       </geometry>
       <material
         name="">
@@ -1001,7 +1001,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/rwristroll.STL" />
+          filename="package://bit_humanoid/meshes/rwristroll.STL" />
       </geometry>
     </collision>
   </link>
@@ -1055,7 +1055,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/lshoulderpitch.STL" />
+          filename="package://bit_humanoid/meshes/lshoulderpitch.STL" />
       </geometry>
       <material
         name="">
@@ -1069,7 +1069,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/lshoulderpitch.STL" />
+          filename="package://bit_humanoid/meshes/lshoulderpitch.STL" />
       </geometry>
     </collision>
   </link>
@@ -1109,7 +1109,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/lshoulderroll.STL" />
+          filename="package://bit_humanoid/meshes/lshoulderroll.STL" />
       </geometry>
       <material
         name="">
@@ -1123,7 +1123,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/lshoulderroll.STL" />
+          filename="package://bit_humanoid/meshes/lshoulderroll.STL" />
       </geometry>
     </collision>
   </link>
@@ -1163,7 +1163,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/lshoulderyaw.STL" />
+          filename="package://bit_humanoid/meshes/lshoulderyaw.STL" />
       </geometry>
       <material
         name="">
@@ -1177,7 +1177,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/lshoulderyaw.STL" />
+          filename="package://bit_humanoid/meshes/lshoulderyaw.STL" />
       </geometry>
     </collision>
   </link>
@@ -1217,7 +1217,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/lelbowpitch.STL" />
+          filename="package://bit_humanoid/meshes/lelbowpitch.STL" />
       </geometry>
       <material
         name="">
@@ -1231,7 +1231,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/lelbowpitch.STL" />
+          filename="package://bit_humanoid/meshes/lelbowpitch.STL" />
       </geometry>
     </collision>
   </link>
@@ -1271,7 +1271,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/lwristpitch.STL" />
+          filename="package://bit_humanoid/meshes/lwristpitch.STL" />
       </geometry>
       <material
         name="">
@@ -1285,7 +1285,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/lwristpitch.STL" />
+          filename="package://bit_humanoid/meshes/lwristpitch.STL" />
       </geometry>
     </collision>
   </link>
@@ -1325,7 +1325,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/lwristroll.STL" />
+          filename="package://bit_humanoid/meshes/lwristroll.STL" />
       </geometry>
       <material
         name="">
@@ -1339,7 +1339,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/lwristroll.STL" />
+          filename="package://bit_humanoid/meshes/lwristroll.STL" />
       </geometry>
     </collision>
   </link>

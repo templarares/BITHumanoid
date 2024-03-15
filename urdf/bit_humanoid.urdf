@@ -37,7 +37,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/torso.STL" />
+          filename="package://bit_humanoid/meshes/torso.STL" />
       </geometry>
       <material
         name="">
@@ -51,7 +51,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/torso.STL" />
+          filename="package://bit_humanoid/meshes/torso.STL" />
       </geometry>
     </collision>
   </link>
@@ -77,7 +77,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/rhipyaw.STL" />
+          filename="package://bit_humanoid/meshes/rhipyaw.STL" />
       </geometry>
       <material
         name="">
@@ -91,7 +91,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/rhipyaw.STL" />
+          filename="package://bit_humanoid/meshes/rhipyaw.STL" />
       </geometry>
     </collision>
   </link>
@@ -131,7 +131,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/rhiproll.STL" />
+          filename="package://bit_humanoid/meshes/rhiproll.STL" />
       </geometry>
       <material
         name="">
@@ -145,7 +145,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/rhiproll.STL" />
+          filename="package://bit_humanoid/meshes/rhiproll.STL" />
       </geometry>
     </collision>
   </link>
@@ -185,7 +185,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/rhippitch.STL" />
+          filename="package://bit_humanoid/meshes/rhippitch.STL" />
       </geometry>
       <material
         name="">
@@ -199,7 +199,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/rhippitch.STL" />
+          filename="package://bit_humanoid/meshes/rhippitch.STL" />
       </geometry>
     </collision>
   </link>
@@ -239,7 +239,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/rkneepitch.STL" />
+          filename="package://bit_humanoid/meshes/rkneepitch.STL" />
       </geometry>
       <material
         name="">
@@ -253,7 +253,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/rkneepitch.STL" />
+          filename="package://bit_humanoid/meshes/rkneepitch.STL" />
       </geometry>
     </collision>
   </link>
@@ -293,7 +293,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/ranklepitch.STL" />
+          filename="package://bit_humanoid/meshes/ranklepitch.STL" />
       </geometry>
       <material
         name="">
@@ -307,7 +307,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/ranklepitch.STL" />
+          filename="package://bit_humanoid/meshes/ranklepitch.STL" />
       </geometry>
     </collision>
   </link>
@@ -347,7 +347,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/rankleroll.STL" />
+          filename="package://bit_humanoid/meshes/rankleroll.STL" />
       </geometry>
       <material
         name="">
@@ -361,7 +361,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/rankleroll.STL" />
+          filename="package://bit_humanoid/meshes/rankleroll.STL" />
       </geometry>
     </collision>
   </link>
@@ -401,7 +401,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/lhipyaw.STL" />
+          filename="package://bit_humanoid/meshes/lhipyaw.STL" />
       </geometry>
       <material
         name="">
@@ -415,7 +415,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/lhipyaw.STL" />
+          filename="package://bit_humanoid/meshes/lhipyaw.STL" />
       </geometry>
     </collision>
   </link>
@@ -455,7 +455,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/lhiproll.STL" />
+          filename="package://bit_humanoid/meshes/lhiproll.STL" />
       </geometry>
       <material
         name="">
@@ -469,7 +469,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/lhiproll.STL" />
+          filename="package://bit_humanoid/meshes/lhiproll.STL" />
       </geometry>
     </collision>
   </link>
@@ -509,7 +509,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/lhippitch.STL" />
+          filename="package://bit_humanoid/meshes/lhippitch.STL" />
       </geometry>
       <material
         name="">
@@ -523,7 +523,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/lhippitch.STL" />
+          filename="package://bit_humanoid/meshes/lhippitch.STL" />
       </geometry>
     </collision>
   </link>
@@ -563,7 +563,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/lkneepitch.STL" />
+          filename="package://bit_humanoid/meshes/lkneepitch.STL" />
       </geometry>
       <material
         name="">
@@ -577,7 +577,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/lkneepitch.STL" />
+          filename="package://bit_humanoid/meshes/lkneepitch.STL" />
       </geometry>
     </collision>
   </link>
@@ -617,7 +617,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/lanklepitch.STL" />
+          filename="package://bit_humanoid/meshes/lanklepitch.STL" />
       </geometry>
       <material
         name="">
@@ -631,7 +631,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/lanklepitch.STL" />
+          filename="package://bit_humanoid/meshes/lanklepitch.STL" />
       </geometry>
     </collision>
   </link>
@@ -671,7 +671,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/lankleroll.STL" />
+          filename="package://bit_humanoid/meshes/lankleroll.STL" />
       </geometry>
       <material
         name="">
@@ -685,7 +685,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/lankleroll.STL" />
+          filename="package://bit_humanoid/meshes/lankleroll.STL" />
       </geometry>
     </collision>
   </link>
@@ -727,7 +727,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/LArm0.STL" />
+          filename="package://bit_humanoid/meshes/LArm0.STL" />
       </geometry>
       <material
         name="">
@@ -741,7 +741,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/LArm0.STL" />
+          filename="package://bit_humanoid/meshes/LArm0.STL" />
       </geometry>
     </collision>
   </link>
@@ -778,7 +778,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/LArm1.STL" />
+          filename="package://bit_humanoid/meshes/LArm1.STL" />
       </geometry>
       <material
         name="">
@@ -792,7 +792,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/LArm1.STL" />
+          filename="package://bit_humanoid/meshes/LArm1.STL" />
       </geometry>
     </collision>
   </link>
@@ -836,7 +836,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/LArm2.STL" />
+          filename="package://bit_humanoid/meshes/LArm2.STL" />
       </geometry>
       <material
         name="">
@@ -850,7 +850,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/LArm2.STL" />
+          filename="package://bit_humanoid/meshes/LArm2.STL" />
       </geometry>
     </collision>
   </link>
@@ -894,7 +894,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/LArm3.STL" />
+          filename="package://bit_humanoid/meshes/LArm3.STL" />
       </geometry>
       <material
         name="">
@@ -908,7 +908,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/LArm3.STL" />
+          filename="package://bit_humanoid/meshes/LArm3.STL" />
       </geometry>
     </collision>
   </link>
@@ -952,7 +952,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/LArm4.STL" />
+          filename="package://bit_humanoid/meshes/LArm4.STL" />
       </geometry>
       <material
         name="">
@@ -966,7 +966,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/LArm4.STL" />
+          filename="package://bit_humanoid/meshes/LArm4.STL" />
       </geometry>
     </collision>
   </link>
@@ -1010,7 +1010,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/LArm5.STL" />
+          filename="package://bit_humanoid/meshes/LArm5.STL" />
       </geometry>
       <material
         name="">
@@ -1024,7 +1024,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/LArm5.STL" />
+          filename="package://bit_humanoid/meshes/LArm5.STL" />
       </geometry>
     </collision>
   </link>
@@ -1068,7 +1068,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/LArm6.STL" />
+          filename="package://bit_humanoid/meshes/LArm6.STL" />
       </geometry>
       <material
         name="">
@@ -1082,7 +1082,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/LArm6.STL" />
+          filename="package://bit_humanoid/meshes/LArm6.STL" />
       </geometry>
     </collision>
   </link>
@@ -1126,7 +1126,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/LArm7.STL" />
+          filename="package://bit_humanoid/meshes/LArm7.STL" />
       </geometry>
       <material
         name="">
@@ -1140,7 +1140,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/LArm7.STL" />
+          filename="package://bit_humanoid/meshes/LArm7.STL" />
       </geometry>
     </collision>
   </link>
@@ -1186,7 +1186,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/RArm0.STL" />
+          filename="package://bit_humanoid/meshes/RArm0.STL" />
       </geometry>
       <material
         name="">
@@ -1200,7 +1200,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/RArm0.STL" />
+          filename="package://bit_humanoid/meshes/RArm0.STL" />
       </geometry>
     </collision>
   </link>
@@ -1237,7 +1237,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/RArm1.STL" />
+          filename="package://bit_humanoid/meshes/RArm1.STL" />
       </geometry>
       <material
         name="">
@@ -1251,7 +1251,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/RArm1.STL" />
+          filename="package://bit_humanoid/meshes/RArm1.STL" />
       </geometry>
     </collision>
   </link>
@@ -1295,7 +1295,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/RArm2.STL" />
+          filename="package://bit_humanoid/meshes/RArm2.STL" />
       </geometry>
       <material
         name="">
@@ -1309,7 +1309,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/RArm2.STL" />
+          filename="package://bit_humanoid/meshes/RArm2.STL" />
       </geometry>
     </collision>
   </link>
@@ -1353,7 +1353,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/RArm3.STL" />
+          filename="package://bit_humanoid/meshes/RArm3.STL" />
       </geometry>
       <material
         name="">
@@ -1367,7 +1367,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/RArm3.STL" />
+          filename="package://bit_humanoid/meshes/RArm3.STL" />
       </geometry>
     </collision>
   </link>
@@ -1411,7 +1411,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/RArm4.STL" />
+          filename="package://bit_humanoid/meshes/RArm4.STL" />
       </geometry>
       <material
         name="">
@@ -1425,7 +1425,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/RArm4.STL" />
+          filename="package://bit_humanoid/meshes/RArm4.STL" />
       </geometry>
     </collision>
   </link>
@@ -1469,7 +1469,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/RArm5.STL" />
+          filename="package://bit_humanoid/meshes/RArm5.STL" />
       </geometry>
       <material
         name="">
@@ -1483,7 +1483,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/RArm5.STL" />
+          filename="package://bit_humanoid/meshes/RArm5.STL" />
       </geometry>
     </collision>
   </link>
@@ -1527,7 +1527,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/RArm6.STL" />
+          filename="package://bit_humanoid/meshes/RArm6.STL" />
       </geometry>
       <material
         name="">
@@ -1541,7 +1541,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/RArm6.STL" />
+          filename="package://bit_humanoid/meshes/RArm6.STL" />
       </geometry>
     </collision>
   </link>
@@ -1585,7 +1585,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/RArm7.STL" />
+          filename="package://bit_humanoid/meshes/RArm7.STL" />
       </geometry>
       <material
         name="">
@@ -1599,7 +1599,7 @@
         rpy="0 0 0" />
       <geometry>
         <mesh
-          filename="package://patrolrobot/meshes/RArm7.STL" />
+          filename="package://bit_humanoid/meshes/RArm7.STL" />
       </geometry>
     </collision>
   </link>
